@@ -1,7 +1,0 @@
-c:\users\mak\documents\visual studio 2010\Projects\Greazy\Greazy\bin\Debug\Greazy.exe
-c:\users\mak\documents\visual studio 2010\Projects\Greazy\Greazy\bin\Debug\Greazy.pdb
-c:\users\mak\documents\visual studio 2010\Projects\Greazy\Greazy\obj\x86\Debug\Greazy.Form1.resources
-c:\users\mak\documents\visual studio 2010\Projects\Greazy\Greazy\obj\x86\Debug\Greazy.Properties.Resources.resources
-c:\users\mak\documents\visual studio 2010\Projects\Greazy\Greazy\obj\x86\Debug\Greazy.csproj.GenerateResource.Cache
-c:\users\mak\documents\visual studio 2010\Projects\Greazy\Greazy\obj\x86\Debug\Greazy.exe
-c:\users\mak\documents\visual studio 2010\Projects\Greazy\Greazy\obj\x86\Debug\Greazy.pdb
